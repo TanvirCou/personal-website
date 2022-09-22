@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 5;
+}
+h2{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.name{
+    font-size: 50px;
+    font-weight: bolder;
+    color: deeppink;
+}
+p{
+    color: grey;
+    margin-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(plum,deeppink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: aliceblue;
+    margin-top: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.header{
+    background-image: url(personal-website/header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+    
+}
+.bio-area{
+    background-image: url(personal-website/biography-bg.png);
+    background-size: 1600px;
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.img-width{
+    width: 25%;
+    float: left;
+    margin: 2%;
+
+}
+.img-width img{
+    width: 100%;
+}
+.work-area{
+    padding-left: 10%;
+    background-image: url(personal-website/latest-work-bg.png);
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 400px;
+}   
+#work-text{
+    text-align: center;
+    padding-right: 190px;
+    padding-bottom: 40px;
+    font-size: 35px;
+}
+.footer-part{
+    height: 500px;
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    background-position: left;
+}
+.footer-text{
+    text-align: center;
+}
+#footer-name{
+    padding-top: 35px;
+}
+#reco{
+    font-size: 10px;
+    color: gray;
+}
+#footer-last-line{
+    padding-top: 15px;
+}
+.link-text{
+    font-size: 12px;
+    text-align: center;
+    width: 350px;
+    background-image: linear-gradient(plum,deeppink);
+    padding: 10px 36px;
+    margin-left: 460px;
+    margin-top: 40px;
+    color: white;
+}
+.link-text-p{
+    color: white;
+}
+footer{
+    text-align: center;
+}
